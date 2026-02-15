@@ -1,1 +1,2 @@
+-- Universal DeSync Script --
 When enabled, your character appears frozen in place from the server’s perspective while you can still move and interact normally on your screen. To other players, it looks like you are standing still, even though you are moving locally. It also includes an optional noclip feature that lets you walk through objects while desync is active.
